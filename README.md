@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<img width="1351" height="5774" alt="cheap-deals-iota vercel app_" src="https://github.com/user-attachments/assets/93c16313-39b3-408c-807d-384022dc1aad" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
